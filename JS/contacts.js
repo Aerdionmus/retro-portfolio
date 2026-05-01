@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
         output.textContent += "EMAIL: spshaktivellsunder@gmail.com\n";
       }
       else if (key === "GITHUB") {
-        output.textContent += "GITHUB: https://github.com/Airboeingbus\n";
+        output.textContent += "GITHUB: https://github.com/Aerdionmus\n";
       }
       else if (key === "LINKEDIN") {
         output.textContent += "LINKEDIN: https://www.linkedin.com/in/s-p-shaktivell-sunder\n";
